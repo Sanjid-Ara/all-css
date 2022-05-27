@@ -1,0 +1,35 @@
+    * {
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    header {
+        height: 200px;
+        width: auto;
+        background-color: orange;
+    }
+    
+    img {
+        float: right;
+        padding: 0px 100px;
+    }
+    
+    .div1 {
+        padding: 30px 180px;
+        font-size: 40px;
+        font-style: italic;
+    }
+    
+    section {
+        height: 443px;
+        width: 1366px;
+        background-color: black;
+    }
+    
+    .csski {
+        background-color: red;
+    }
+    
+    .cssclass {
+        background-color: maroon;
+    }
